@@ -7,6 +7,10 @@ def q1():
 def q2(): 
   #Write Assignment code here
 
+  
+def q3(): 
+  #Write Assignment code here
+
 
 
 #Do not alter the following code
@@ -14,3 +18,4 @@ def q2():
 
 q1()
 q2()
+q3()
